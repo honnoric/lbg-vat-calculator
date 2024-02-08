@@ -9,7 +9,7 @@ COPY package.json .
 
 # download the project dependencies
 RUN npm install
-# RUN apk update && apk add mc 
+RUN apk update && apk add mc 
 
 # copy everything from the react app folder to the /app folder in the container
 COPY . .
