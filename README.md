@@ -1,3 +1,4 @@
 This is a simple VAT Calculator ReactJS application
-Updated to commit
+Updated to commit 
+Reset dockerhub password in Jenkins credentials
 
